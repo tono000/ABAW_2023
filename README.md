@@ -1,6 +1,6 @@
 
 
-Affwild2-ABAW3 @ CVPR 2022 
+Affwild2-ABAW3 @ CVPR 2023 
 
 How to run?
 1. Create a python 3.9 environment using conda or other tools. `conda create -n abaw5 python=3.9`
